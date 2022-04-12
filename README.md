@@ -1,2 +1,1 @@
-# crypto
-Crypto code project colection
+This is our collection of crypto codes
